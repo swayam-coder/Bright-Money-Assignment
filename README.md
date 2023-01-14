@@ -2,7 +2,7 @@
 
 #### Sandbox Link: https://codesandbox.io/s/github/swayam-coder/Bright-Money-Assignment
 
-Tech Stack:
+#### Tech Stack:
 - React
 - Redux + Redux Thunk
 - ChartJS
