@@ -7,7 +7,7 @@ Tech Stack:
 - React Table
 - React Location
 
-* I have solved the Task 1 part of this assignment with simplistic UI and satisfying all the necessary requirements
+** I have solved the Task 1 part of this assignment with simplistic UI and satisfying all the necessary requirements
 
 ### Problem Statement
 
