@@ -1,2 +1,2 @@
-# Bright-Money-Assignment
+# bright-money-assignment
 Created with CodeSandbox
